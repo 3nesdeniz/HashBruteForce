@@ -17,5 +17,5 @@ Saldırganların kullandığı yöntemleri anlamak, savunma yapmanın ilk adım�
 
 ## Kurulum ve Kullanım
 * **help:** Help komutu içerisinde bilgiler mevcut
-* Örnek Çıktı:
+* Örnek Çıktı:<br>
   <img width="428" height="165" alt="Ornek-Cıktı" src="https://github.com/user-attachments/assets/e0865e66-22c0-46b7-87f7-04e78b3a2594" />
